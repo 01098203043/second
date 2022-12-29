@@ -1,0 +1,25 @@
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(9, 113, 139);
+}
+
+.container {
+    
+    display: flex;
+}
+
+
+.side {
+    background-color: rgb(48, 233, 233);
+    height: 580px;
+    width: 650px
+	
+}
+
+.content {
+    background-color: rgb(206, 55, 181);
+height: 580px;
+width: 650px
+}
